@@ -4,12 +4,12 @@
 
 ### Desenvolvedor em formação • Infraestrutura de TI • Redes
 
-💻 HTML • CSS • JavaScript • Python
+💻 HTML • CSS • JavaScript • Python  
 🌐 Redes • Infraestrutura • Suporte • Telecomunicações
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alves-Thiago\&color=blue\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Alves-Thiago&color=blue&style=for-the-badge)
 
 </div>
 
@@ -33,37 +33,37 @@ Atualmente meus principais estudos e projetos estão concentrados em:
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ### 🌐 Desenvolvimento Web
 
-* **HTML5** — estruturação de páginas e aplicações Web
-* **CSS3** — estilização, layouts e interfaces responsivas
-* **JavaScript** — lógica, interatividade e funcionalidades
-* Desenvolvimento de interfaces responsivas
-* Manipulação do DOM
-* Lógica de programação
-* Algoritmos
-* Consumo e manipulação de dados
-* Estudos de APIs
-* Desenvolvimento de projetos próprios
+- **HTML5** — estruturação de páginas e aplicações Web
+- **CSS3** — estilização, layouts e interfaces responsivas
+- **JavaScript** — lógica, interatividade e funcionalidades
+- Desenvolvimento de interfaces responsivas
+- Manipulação do DOM
+- Lógica de programação
+- Algoritmos
+- Consumo e manipulação de dados
+- Estudos de APIs
+- Desenvolvimento de projetos próprios
 
 ### 🐍 Python
 
 Possuo **conhecimento básico em Python** e atualmente utilizo a linguagem principalmente para estudos de:
 
-* Lógica de programação
-* Algoritmos
-* Estruturas condicionais
-* Estruturas de repetição
-* Funções
-* Manipulação de dados
-* Scripts e automação
+- Lógica de programação
+- Algoritmos
+- Estruturas condicionais
+- Estruturas de repetição
+- Funções
+- Manipulação de dados
+- Scripts e automação
 
 ---
 
@@ -73,30 +73,30 @@ Minha experiência profissional também inclui atuação prática em ambientes d
 
 <div align="center">
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge\&logo=mikrotik\&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge\&logo=ubiquiti\&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge\&logo=ubiquiti\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
 </div>
 
 ### 🔧 Experiência e conhecimentos
 
-* 🖧 Administração e manutenção de redes
-* 🌐 TCP/IP
-* 🔌 Cabeamento estruturado
-* 📡 Redes Wi-Fi
-* 🛜 Configuração de equipamentos de rede
-* 🖥️ Suporte técnico a usuários
-* 🗄️ Servidores
-* 📁 File Server
-* 📞 VoIP
-* 💾 Backup
-* 🖨️ Impressoras e periféricos
-* 🔐 Segurança da informação
-* 📊 Monitoramento
-* 🧰 Troubleshooting
-* 🏢 Planejamento e implantação de infraestrutura de TI
+- 🖧 Administração e manutenção de redes
+- 🌐 TCP/IP
+- 🔌 Cabeamento estruturado
+- 📡 Redes Wi-Fi
+- 🛜 Configuração de equipamentos de rede
+- 🖥️ Suporte técnico a usuários
+- 🗄️ Servidores
+- 📁 File Server
+- 📞 VoIP
+- 💾 Backup
+- 🖨️ Impressoras e periféricos
+- 🔐 Segurança da informação
+- 📊 Monitoramento
+- 🧰 Troubleshooting
+- 🏢 Planejamento e implantação de infraestrutura de TI
 
 ### 📡 Tecnologias de infraestrutura
 
@@ -112,21 +112,21 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
 ### 📚 Estudos
 
-* SQL
-* MySQL
-* CRUD
-* Consultas
-* Views
-* Triggers
-* MongoDB
-* Estruturas de dados
+- SQL
+- MySQL
+- CRUD
+- Consultas
+- Views
+- Triggers
+- MongoDB
+- Estruturas de dados
 
 ---
 
@@ -136,27 +136,27 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 ### 💻 Desenvolvimento
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🌐 Infraestrutura
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square\&logo=mikrotik\&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square\&logo=ubiquiti\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 
 ### 🛠️ Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -164,10 +164,10 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 # 🎓 Formação
 
-🎓 **Tecnólogo em Redes de Computadores**
+🎓 **Tecnólogo em Redes de Computadores**  
 📚 Em andamento
 
-💻 **Técnico em Desenvolvimento de Software**
+💻 **Técnico em Desenvolvimento de Software**  
 📚 Em andamento
 
 🏅 **Cisco CCNA**
@@ -178,9 +178,9 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alves-Thiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alves-Thiago&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves-Thiago&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves-Thiago&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -190,7 +190,7 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Alves-Thiago&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=Alves-Thiago&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -200,7 +200,7 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alves-Thiago\&theme=tokyo-night)](https://github.com/Alves-Thiago)
+[![Thiago's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alves-Thiago&theme=tokyo-night&hide_border=true)](https://github.com/Alves-Thiago)
 
 </div>
 
@@ -224,25 +224,25 @@ Aqui compartilho projetos desenvolvidos durante minha evolução na programaçã
 
 Projetos envolvendo:
 
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
-* 🐍 Python
-* 🗄️ Banco de dados
-* 🔌 APIs
-* 🖥️ Interfaces Web
-* 🧠 Lógica de programação
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐍 Python
+- 🗄️ Banco de dados
+- 🔌 APIs
+- 🖥️ Interfaces Web
+- 🧠 Lógica de programação
 
 ### 🌐 Tecnologia & Infraestrutura
 
 Também utilizo este espaço para compartilhar estudos, experimentos e soluções relacionados a:
 
-* 🖧 Redes
-* 🗄️ Infraestrutura
-* 🖥️ Servidores
-* 🔐 Segurança
-* ⚙️ Automação
-* 📊 Monitoramento
+- 🖧 Redes
+- 🗄️ Infraestrutura
+- 🖥️ Servidores
+- 🔐 Segurança
+- ⚙️ Automação
+- 📊 Monitoramento
 
 ---
 
@@ -250,13 +250,13 @@ Também utilizo este espaço para compartilhar estudos, experimentos e soluçõe
 
 <div align="center">
 
-| Área               | Foco                                |
-| ------------------ | ----------------------------------- |
-| 💻 Desenvolvimento | HTML • CSS • JavaScript             |
-| 🐍 Programação     | Python                              |
-| 🌐 Infraestrutura  | Redes • Cisco • MikroTik • Ubiquiti |
-| 🗄️ Banco de Dados | MySQL • MongoDB                     |
-| ☁️ Estudos         | Cloud • APIs • Segurança            |
+| Área | Foco |
+|---|---|
+| 💻 Desenvolvimento | HTML • CSS • JavaScript |
+| 🐍 Programação | Python |
+| 🌐 Infraestrutura | Redes • Cisco • MikroTik • Ubiquiti |
+| 🗄️ Banco de Dados | MySQL • MongoDB |
+| ☁️ Estudos | Cloud • APIs • Segurança |
 
 </div>
 
@@ -266,15 +266,15 @@ Também utilizo este espaço para compartilhar estudos, experimentos e soluçõe
 
 Atualmente continuo desenvolvendo conhecimentos em:
 
-* 🚀 JavaScript
-* 🐍 Python
-* 🌐 Desenvolvimento Web
-* 🗄️ Bancos de dados
-* 🔌 APIs
-* ☁️ Cloud Computing
-* 🔐 Segurança da Informação
-* 🖧 Redes e Infraestrutura
-* ⚙️ Automação
+- 🚀 JavaScript
+- 🐍 Python
+- 🌐 Desenvolvimento Web
+- 🗄️ Bancos de dados
+- 🔌 APIs
+- ☁️ Cloud Computing
+- 🔐 Segurança da Informação
+- 🖧 Redes e Infraestrutura
+- ⚙️ Automação
 
 ---
 
