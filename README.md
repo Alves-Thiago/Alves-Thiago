@@ -174,17 +174,6 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="./profile/stats.svg"/>
-
-<img height="180em" src="./profile/top-langs.svg"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
