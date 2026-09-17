@@ -178,9 +178,9 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alves-Thiago&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="./profile/stats.svg"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves-Thiago&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="./profile/top-langs.svg"/>
 
 </div>
 
