@@ -196,16 +196,6 @@ Durante meus estudos também venho trabalhando com bancos de dados relacionais e
 
 ---
 
-# 📈 Atividade no GitHub
-
-<div align="center">
-
-[![Thiago's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alves-Thiago&theme=tokyo-night&hide_border=true)](https://github.com/Alves-Thiago)
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
